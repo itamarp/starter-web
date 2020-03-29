@@ -13,3 +13,5 @@ many thanks to me
 
     HTML5, CSS3
     jQuery, Modernizr
+    JAVA
+    SQL
